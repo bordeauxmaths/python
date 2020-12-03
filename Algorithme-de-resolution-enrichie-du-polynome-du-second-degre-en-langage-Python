@@ -1,7 +1,9 @@
 from math import *
+# Conçu et rédigé par Jérémy Hernandez - Ingénieur Diplômé ENSEIRB-MATMECA inscrit au répertoire des Ingénieurs et Scientifiques de France (IESF) https://repertoire.iesf.fr/#profile/f4726fc09acd1f6a9ed60007df85fc2e 
+# dans le but d'aider à analyser, comprendre et synthétiser le polynôme du second degré représenté par une courbe représentative appelée Parabole.
 # ℝésolution du polynôme
 # Saisir les paramètres du polynôme du seconde degré de la forme f(x)=ax²+bx+c
-print('Saisir les paramètres du polynôme du second degré de la forme ax²+bx+c=0')
+print('Saisir les paramètres du polynôme du second degré de la forme f(x)=ax²+bx+c')
 a=input("a =")
 a=int(a)
 b=input("b =")
