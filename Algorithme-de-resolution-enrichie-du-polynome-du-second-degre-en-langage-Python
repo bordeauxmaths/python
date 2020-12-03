@@ -3,7 +3,7 @@ from math import *
 # dans le but d'aider à analyser, comprendre et synthétiser le polynôme du second degré représenté par une courbe représentative appelée Parabole.
 # Résolution du polynôme
 # Saisir les paramètres du polynôme du seconde degré de la forme f(x)=ax²+bx+c
-print('Saisir les paramètres du polynôme du second degré de la forme f(x)=ax²+bx+c')
+print('Saisir les paramètres du polynôme du second degré de la forme ax²+bx+c=0')
 a=input("a =")
 a=int(a)
 b=input("b =")
